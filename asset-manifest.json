@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/investorbook/static/css/main.b7eebef9.chunk.css",
+    "main.js": "/investorbook/static/js/main.49a468af.chunk.js",
+    "main.js.map": "/investorbook/static/js/main.49a468af.chunk.js.map",
+    "runtime-main.js": "/investorbook/static/js/runtime-main.5c740c23.js",
+    "runtime-main.js.map": "/investorbook/static/js/runtime-main.5c740c23.js.map",
+    "static/js/2.0ac32323.chunk.js": "/investorbook/static/js/2.0ac32323.chunk.js",
+    "static/js/2.0ac32323.chunk.js.map": "/investorbook/static/js/2.0ac32323.chunk.js.map",
+    "index.html": "/investorbook/index.html",
+    "precache-manifest.44e719265cd02cd139d91621ac8cfa08.js": "/investorbook/precache-manifest.44e719265cd02cd139d91621ac8cfa08.js",
+    "service-worker.js": "/investorbook/service-worker.js",
+    "static/css/main.b7eebef9.chunk.css.map": "/investorbook/static/css/main.b7eebef9.chunk.css.map",
+    "static/js/2.0ac32323.chunk.js.LICENSE.txt": "/investorbook/static/js/2.0ac32323.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/investorbook/static/media/ufonts.com_agenda-mediumcondensed.edf6d289.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5c740c23.js",
+    "static/js/2.0ac32323.chunk.js",
+    "static/css/main.b7eebef9.chunk.css",
+    "static/js/main.49a468af.chunk.js"
+  ]
+}
