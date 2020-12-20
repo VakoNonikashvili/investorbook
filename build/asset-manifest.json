@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4ab9490d.chunk.css",
+    "main.js": "/static/js/main.ca2cc46c.chunk.js",
+    "main.js.map": "/static/js/main.ca2cc46c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b31f0580.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b31f0580.js.map",
+    "static/js/2.be177cec.chunk.js": "/static/js/2.be177cec.chunk.js",
+    "static/js/2.be177cec.chunk.js.map": "/static/js/2.be177cec.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.a34bb506fa0550dc135d7e3271437dbb.js": "/precache-manifest.a34bb506fa0550dc135d7e3271437dbb.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.4ab9490d.chunk.css.map": "/static/css/main.4ab9490d.chunk.css.map",
+    "static/js/2.be177cec.chunk.js.LICENSE.txt": "/static/js/2.be177cec.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/static/media/ufonts.com_agenda-mediumcondensed.edf6d289.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b31f0580.js",
+    "static/js/2.be177cec.chunk.js",
+    "static/css/main.4ab9490d.chunk.css",
+    "static/js/main.ca2cc46c.chunk.js"
+  ]
+}

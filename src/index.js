@@ -1,6 +1,9 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import "./index.css";
+import { BrowserRouter as Router } from 'react-router-dom'
+import { IntlProvider } from 'react-intl'
+import './assets/fonts/style.css'
+import Global from './components/Global'
 import App from "./App";
 import * as serviceWorker from "./serviceWorker";
 
@@ -13,9 +16,14 @@ const client = new ApolloClient({
 
 ReactDOM.render(
   <React.StrictMode>
-    <ApolloProvider client={client}>
-      <App />
-    </ApolloProvider>
+    <IntlProvider locale="en">
+      <ApolloProvider client={client}>
+        <Router>
+          <Global />
+          <App />
+        </Router>
+      </ApolloProvider>
+    </IntlProvider>
   </React.StrictMode>,
   document.getElementById("root")
 );
