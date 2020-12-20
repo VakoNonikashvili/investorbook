@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/investor/static/css/main.4f133afe.chunk.css",
-    "main.js": "/investor/static/js/main.c78e509a.chunk.js",
-    "main.js.map": "/investor/static/js/main.c78e509a.chunk.js.map",
-    "runtime-main.js": "/investor/static/js/runtime-main.b827ad53.js",
-    "runtime-main.js.map": "/investor/static/js/runtime-main.b827ad53.js.map",
-    "static/js/2.4e94e43b.chunk.js": "/investor/static/js/2.4e94e43b.chunk.js",
-    "static/js/2.4e94e43b.chunk.js.map": "/investor/static/js/2.4e94e43b.chunk.js.map",
-    "index.html": "/investor/index.html",
-    "precache-manifest.fcd03080ed3e6bf95e031ad769c36fbc.js": "/investor/precache-manifest.fcd03080ed3e6bf95e031ad769c36fbc.js",
-    "service-worker.js": "/investor/service-worker.js",
-    "static/css/main.4f133afe.chunk.css.map": "/investor/static/css/main.4f133afe.chunk.css.map",
-    "static/js/2.4e94e43b.chunk.js.LICENSE.txt": "/investor/static/js/2.4e94e43b.chunk.js.LICENSE.txt",
-    "static/media/style.css": "/investor/static/media/ufonts.com_agenda-mediumcondensed.edf6d289.woff"
+    "main.css": "/investorbook/static/css/main.b7eebef9.chunk.css",
+    "main.js": "/investorbook/static/js/main.49a468af.chunk.js",
+    "main.js.map": "/investorbook/static/js/main.49a468af.chunk.js.map",
+    "runtime-main.js": "/investorbook/static/js/runtime-main.5c740c23.js",
+    "runtime-main.js.map": "/investorbook/static/js/runtime-main.5c740c23.js.map",
+    "static/js/2.0ac32323.chunk.js": "/investorbook/static/js/2.0ac32323.chunk.js",
+    "static/js/2.0ac32323.chunk.js.map": "/investorbook/static/js/2.0ac32323.chunk.js.map",
+    "index.html": "/investorbook/index.html",
+    "precache-manifest.44e719265cd02cd139d91621ac8cfa08.js": "/investorbook/precache-manifest.44e719265cd02cd139d91621ac8cfa08.js",
+    "service-worker.js": "/investorbook/service-worker.js",
+    "static/css/main.b7eebef9.chunk.css.map": "/investorbook/static/css/main.b7eebef9.chunk.css.map",
+    "static/js/2.0ac32323.chunk.js.LICENSE.txt": "/investorbook/static/js/2.0ac32323.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/investorbook/static/media/ufonts.com_agenda-mediumcondensed.edf6d289.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.b827ad53.js",
-    "static/js/2.4e94e43b.chunk.js",
-    "static/css/main.4f133afe.chunk.css",
-    "static/js/main.c78e509a.chunk.js"
+    "static/js/runtime-main.5c740c23.js",
+    "static/js/2.0ac32323.chunk.js",
+    "static/css/main.b7eebef9.chunk.css",
+    "static/js/main.49a468af.chunk.js"
   ]
 }
