@@ -103,7 +103,7 @@ const UpdateModal = ({ isOpen, toggle, isCompany, record }) => {
   return (
     <Modal isOpen={isOpen}>
       <Box>
-        <Title>Remove {isCompany ? 'Comapny' : 'Investor'}?</Title>
+        <Title>Update Name</Title>
         <Input
           placeholder="Enter name..."
           value={name}

@@ -76,7 +76,7 @@ const RemoveModal = ({ isOpen, toggle, isCompany, record }) => {
   return (
     <Modal isOpen={isOpen}>
       <Box>
-        <Title>Remove {isCompany ? 'Comapny' : 'Investor'}?</Title>
+        <Title>Remove {isCompany ? 'Comapany' : 'Investor'}?</Title>
         <Row>
           <span onClick={toggle}>Cancel</span>
           <button onClick={onRemove} disabled={loading}>Remove</button>
